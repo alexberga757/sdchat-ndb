@@ -9,9 +9,9 @@ Enter the source code if you want to use it for hosting
 # Requirement
 > Package: `Express`
 
-the file `confighost.json` contains the host's configuration, (default port is 2000)
-`/message/get` - API to receive message content
-`/message/put` - Message sending API
+the file `confighost.json` contains the host's configuration, (default port is 2000) <br>
+> `/message/get` - API to receive message content
+> `/message/put` - Message sending API
 
 **Note**: Since the database is not used, the messages will be saved in the variable and will be replaced by another message, which means you will not be able to see the old message
 
