@@ -6,6 +6,9 @@ Currently the source code is very rudimentary and is being developed by me.and t
  so I recommend you to add Cross-origin resource sharing
 Enter the source code if you want to use it for hosting
 
+# requirement
+> Package: `Express`
+
 the file `confighost.json` contains the host's configuration, (default port is 2000)
 
 
